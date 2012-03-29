@@ -1,0 +1,9 @@
+logs
+project/project
+project/target
+target
+tmp
+
+/.cache
+/.classpath
+/.settings/org.scala-ide.sdt.core.prefs
